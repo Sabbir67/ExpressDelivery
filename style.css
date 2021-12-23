@@ -1,0 +1,54 @@
+.logoheight{
+    height: 50px;
+    width: 200px;
+}
+body{
+background-color: rgb(246, 246, 246);
+}
+
+.heightdetails{
+    height: 250px;
+}
+
+.signupbg{
+    background-color: rgb(29, 209, 209);
+    border-radius: 10%;;
+}
+.footerClass{
+    height: 100px;
+    width: 100%;;
+}
+.LoginPageCss{
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 8%;
+    background-color: rgb(215, 250, 242);
+}
+.LoginPageCssform{
+    padding: 30px;
+    background-color: rgb(18, 149, 192);
+    
+}
+.RiderPageCssform{
+    padding: 30px;
+    background-color: rgb(18, 149, 192);
+}
+.loginImage{
+    height: 150px;
+    width: 600px;
+    
+}
+.loginImageRider{
+    height: 100px;
+    width: 400px;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+  .cityImage{
+      height: 300px;
+      width: 300px;
+  }
